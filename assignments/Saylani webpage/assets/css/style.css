@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family: serif ;
+}
+#main{
+	background-color: #316DC3;
+	padding: 10px 0px;
+
+
+}
+.logo1{
+margin-top: 10px;
+}
+.li{
+	padding: 10px;
+	
+}
+.navi1 > .navi > a > .li:hover{
+background-color: #316DC3;
+border: 1px solid #316DC3;
+border-radius: 40px;
+text-decoration: none;
+}
+.row1{
+	background-color: #F6FBFE;
+}
+.marq{
+	background-color: #316DC3;
+	color: white;
+	padding:5px;
+}
+.png{
+	margin-top: 30px;
+}
+.p1{
+	font-weight: bolder;
+	font-size: 32px;
+	color:#316DC3;
+}
+.p2{
+	font-weight: bold;
+	font-size: 32px;
+	color: #427900;
+}
+.info{
+	color:#656565 ;
+	font-size: 16px;
+}
+.box{
+	box-shadow: 5px 5px 10px grey;
+	background-color: white;
+	padding:20px;
+	color: #316DC3;
+}
+.box1{
+	background-color: #F7F8FA;
+	font-size: 18px;
+	font-weight: bold;
+	color:#316DC3;
+	padding: 20px;
+	margin-top: 15PX; 
+
+}
+.gallery{
+	margin-top: 100px;
+}
+.pic{
+	border: 1px solid white;
+	margin-left: 10px;
+}
+.last_2{
+background-color: #25272E;
+margin-top: 150PX;
+color: #6C6D70;
+}
+.l_row{
+	padding-top: 70px;
+	margin-bottom: 100px;
+}
+.last{
+	background-color: #316DD9;
+	padding: 20px;
+	color: white;
+}
+.nav1{
+	/*position: fixed;
+	z-index: 100;*/
+	background-color: #F6FBFE;
+}
